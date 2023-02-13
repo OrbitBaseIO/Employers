@@ -1,28 +1,23 @@
 # Employers
 
-## What is Orbit Base?
+## What is Orbit Base? ☄️
 
-Orbit Base is the global platform for finding and listing remote jobs.
-We have open tech development education communities.
-We have more than 1 million people, thanks to our alliances.
+Orbit Base is one of the largest open technology education community in the world. With over 100k users, OB is a top destination to find top talent and list incredible remote jobs.
 
-Orbit Base launched publicly in 2019. Since then, we have seen
-our communities grow as well as our alliances too.
-We have had job seekers visit us from 99% of the countries on Earth.
-Remote work is truly taking over the world!
+Orbit Base launched publicly in 2019. Since then, we have seen our communities grow. We have had job seekers visit us from 99% of the countries on Earth. Remote work is truly taking over the world!
 
-## Why Choose Orbit Base 🏆?
+## Why Choose Orbit Base? 🛰️
 
-There are lots of remote hiring sites out there. OB is the largest tech community. We don't scrape listings from other platforms, we have the best & biggest remote community in the world, and we fill 90% of the positions posted. Quickly. Since 2019.
+There are lots of remote hiring sites out there. **OB** is the largest open tech education community with remote jobs. We don't scrape listings from other platforms, we have the best & biggest remote community in the world, and we fill 90% of the positions posted. Quickly. Since 2019
 
-### You're in Good Company
+### You're in Good Company 👾
 
 ### Trusted by the world's leading tech companies
 
 <hr />
 <br />
 
-## Hire Quality Remote Candidates, Quickly
+## Hire Quality Talented Remote Candidates, Fast
 
 With **OB**, you’ll receive more applications and qualified candidates in one go.
 
@@ -34,27 +29,40 @@ Remote work is no longer the future of work, it’s here. Hire remote candidates
 
 ## Post a job in **OB**:
 
-### ¿How much $?
-
-Base price
-
-- The base price to post a job in OB is U$150
-- 2 jobs U$250
-- 5 jobs U$600
+- The base price to post a job in OB is U$250
+- 2 jobs U$450
+- 5 jobs U$900
 
 ## Complete recruitment service in **OB**
 
-Base price
+- The base price for a full recruitment service in OB is U$1000
+- 2 services U$1,800
+- 3 services U$2,500
 
-- The base price for a recruitment service in OB is U$1000
-- 2 services U$2,500
-- 3 services U$3,300
-
-<br />
 <hr />
 <br />
 
-## How OB Can Help
+## Extras
+
+### Good U$50
+
+- Display your company logo
+- Share in Discord and Slack channel
+- 2x Social media posts
+
+### Better U$100
+
+- Good features
+- Pin ad for 7 days
+- 3x Social media posts
+
+### Best U$150
+
+- Good & Better features
+- Distribute job to Partner Network
+- 4x Social media posts
+
+## How **OB** Can Help
 
 ### Find applicants faster: +90% fill rate for positions posted
 
@@ -66,7 +74,7 @@ Receive manually prioritized batches of applicants so that you can stop wasting 
 
 ### Rely on us to have your back in hiring anytime: 80% customer return rate month over month
 
-“You guys are awesome and have been a huge resource for growing our team. Excited to continue using WWR as new roles open up for us."
+“You guys are awesome and have been a huge resource for growing our team. Excited to continue using **OB** as new roles open up for us."
 – Guest Client
 
 ### Post job listings with ease
@@ -79,14 +87,14 @@ Post multiple jobs quickly and efficiently. We offer bundle packages with signif
 
 ## Lean into our Partner Network
 
-Post your job on WWR and it’ll also be distributed to:
+Post your job on **OB** and it’ll also be distributed to:
 
 - IT jobs network
 - Allied pages
 - Allied communities
 - Blogs about (Remote Jobs)
-- - Over 20 independent niche job sites that use our RSS Feed
+- \+ Over 20 independent niche job sites that use our RSS Feed
 
-# ¿Ready to post your work?
+# Ready to Post Your Job?
 
-### services@OrbitBase.IO
+# Info@OrbitBase.IO
