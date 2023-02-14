@@ -79,7 +79,7 @@ Receive manually prioritized batches of applicants so that you can stop wasting 
 
 ### Post job listings with ease
 
-Posr your job up in a manner of minutes! We offer direct one-to-one support for any inquiries you have.
+Post your job up in a manner of minutes! We offer direct one-to-one support for any inquiries you have.
 
 ## Save money: flexible pricing through bundle packages
 
